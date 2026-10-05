@@ -1,0 +1,7 @@
+{
+  "name": "code-quest",
+  "version": "0.1.0",
+  "description": "Turns Claude Code sessions into a little coding adventure: XP, levels, quests and achievements.",
+  "author": { "name": "You" },
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "my-mods",
+  "owner": {
+    "name": "Kirti"
+  },
+  "plugins": [
+    {
+      "name": "code-quest",
+      "source": "./code-quest",
+      "description": "Turn your Claude Code sessions into a coding RPG."
+    }
+  ]
+}
